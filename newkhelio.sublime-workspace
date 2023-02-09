@@ -1,0 +1,1288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"isoformat"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"new",
+				"newline="
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"is",
+				"isNewDocumentMarker"
+			],
+			[
+				"db",
+				"DbgInfo"
+			],
+			[
+				"aiso",
+				"aiso0toNGenerator"
+			],
+			[
+				"cu",
+				"currency_str"
+			],
+			[
+				"mts",
+				"mtsDegsInYear"
+			],
+			[
+				"mn",
+				"mplnp"
+			],
+			[
+				"days",
+				"daysMnt"
+			],
+			[
+				"helio",
+				"helioConfigFilename"
+			],
+			[
+				"heli",
+				"helioConfigFilename"
+			],
+			[
+				"nam",
+				"__name__"
+			],
+			[
+				"khu",
+				"khutils"
+			],
+			[
+				"dtT",
+				"dtTarget0"
+			],
+			[
+				"dtTa",
+				"dtTarget0DN"
+			],
+			[
+				"wthL",
+				"wthLabPrevious"
+			],
+			[
+				"wth",
+				"wthLabPrevious"
+			],
+			[
+				"codi",
+				"codingMessages"
+			],
+			[
+				"co",
+				"codingMessages"
+			],
+			[
+				"weat",
+				"weatherString"
+			],
+			[
+				"wea",
+				"weather_data"
+			],
+			[
+				"fi",
+				"fieldnames="
+			],
+			[
+				"csv",
+				"csv_reader"
+			],
+			[
+				"csv_F",
+				"csv_fileIn"
+			],
+			[
+				"addT",
+				"addTimeDemo"
+			],
+			[
+				"price",
+				"pricePLNDemo"
+			],
+			[
+				"rest",
+				"restart="
+			],
+			[
+				"file",
+				"configFile"
+			],
+			[
+				"tmL",
+				"tmLabX"
+			],
+			[
+				"plt",
+				"pltnppd"
+			],
+			[
+				"hrs",
+				"hrsGridMinor"
+			],
+			[
+				"rG",
+				"rGridMinor"
+			],
+			[
+				"getH",
+				"getHMS"
+			],
+			[
+				"timest",
+				"timestamp"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"FlagsD",
+				"FlagsDbgProd"
+			],
+			[
+				"flag",
+				"flags1"
+			],
+			[
+				"Flags",
+				"FlagsDbgProdLog"
+			],
+			[
+				"Fla",
+				"FlagsDbgProd"
+			],
+			[
+				"logg",
+				"logger1"
+			],
+			[
+				"fil",
+				"file="
+			],
+			[
+				"DECs",
+				"DECs_DF1"
+			],
+			[
+				"DEC",
+				"DECs_DF"
+			],
+			[
+				"dec",
+				"decDg"
+			],
+			[
+				"col",
+				"columns="
+			],
+			[
+				"inde",
+				"index="
+			],
+			[
+				"xe",
+				"xes1"
+			],
+			[
+				"sub",
+				"subplots"
+			],
+			[
+				"AL",
+				"ALT_DAY"
+			],
+			[
+				"D",
+				"DEC365Frm"
+			],
+			[
+				"mUs",
+				"mUsgAft"
+			],
+			[
+				"dtype",
+				"dtype="
+			],
+			[
+				"to",
+				"to_csv"
+			],
+			[
+				"code",
+				"code202"
+			],
+			[
+				"code2",
+				"code202"
+			],
+			[
+				"Del",
+				"DelPrc"
+			],
+			[
+				"DEC3",
+				"DEC365Ar"
+			],
+			[
+				"toggle",
+				"toggleLabel"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"si",
+				"simpleEnum\tfunction"
+			],
+			[
+				"seg",
+				"segOutOf2Points"
+			],
+			[
+				"sage",
+				"sageNotebook"
+			],
+			[
+				"drT",
+				"drThesisImg"
+			],
+			[
+				"set",
+				"set_image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "khelio.rst",
+			"settings":
+			{
+				"buffer_size": 40,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "============"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "++"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAAKwAAAAAAAAAAAAAAAAAAAAABAAAAKw",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "==="
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\nNew"
+					},
+					"BAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " `kh"
+					},
+					"BAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "elio."
+					},
+					"BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8AAAAAAAAADwAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "`"
+					},
+					"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "========="
+					},
+					"CQAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAGtA"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n==========="
+					},
+					"DAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAGtA"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3SublimeREPL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/newPython3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git: push",
+				"Git: Push"
+			],
+			[
+				"git: comm",
+				"Git: Commit"
+			],
+			[
+				"git: file",
+				"Git: Add Current File"
+			],
+			[
+				"git: statu",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git: stat",
+				"Git: Status"
+			],
+			[
+				"git: status",
+				"Git: Status"
+			],
+			[
+				"git: add",
+				"Git: Quick Add"
+			],
+			[
+				"git: remo",
+				"Git: Add Remote"
+			],
+			[
+				"git: sta",
+				"Git: Status"
+			],
+			[
+				"git: co",
+				"Git: Commit"
+			],
+			[
+				"git: Add",
+				"Git: Quick Add"
+			],
+			[
+				"git: ini",
+				"Git: Init"
+			],
+			[
+				"git: ad",
+				"Git: Quick Add"
+			],
+			[
+				"git: a",
+				"Git: Quick Add"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"bro",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"repository",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Conda: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: she",
+				"Snippet: python3 shebang"
+			],
+			[
+				"terminus",
+				"Terminus: Close"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"codemap",
+				"CodeMap: Toggle Visibility"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: Python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax: pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: newPython3"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"os.system(\"git --version\")",
+			"print(f\"{os.getenv('PATH') = }\")",
+			"import os",
+			"view.run_command(\"runidle3\")",
+			"view.run_command(\"example\")",
+			"view.run_command(\"runidle3\")",
+			"runidle3",
+			"view.run_command(\"example\")",
+			"view.run_command(\"helloTry\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/khaz/docs/softdev/git/heliotech2023/strepo01/strepo_01.rst",
+		"/home/khaz/.config/sublime-text/Packages/User/CodeMap/Code - Map",
+		"/home/khaz/docs-softdev-python/lib/msystem/mfilesystem.py",
+		"/home/khaz/.config/sublime-text/Packages/User/forecastPython.sublime-build",
+		"/home/khaz/.config/sublime-text/Packages/User/Python.sublime-settings",
+		"/media/vault/docs/softdev/python/tutorial/misc/config/example.ini",
+		"/home/khaz/.config/sublime-text/Packages/User/ftitle.sublime-snippet",
+		"/home/khaz/.config/sublime-text/Packages/User/inp.sublime-snippet",
+		"/home/khaz/softdev/alphabet.sh",
+		"/home/khaz/softdev/khlock.sh",
+		"/home/khaz/.config/sublime-text/Packages/User/helloTry.py",
+		"/home/khaz/.config/sublime-text/Packages/User/Runidle3.py",
+		"/media/vault/dr/dyplom/drThesis/python/khutils.py",
+		"/media/vault/docs/softdev/python/projects/pyMisc.sublime-project",
+		"/home/khaz/.config/sublime-text/Packages/User/Prefixr/Prefixr.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/helio.ini",
+		"/media/vault/dr/dyplom/drThesis/python/misc/config/~000~helio.ini",
+		"/media/vault/dr/dyplom/drThesis/python/misc/config/~010~helio.ini",
+		"/home/khaz/softdev/flags.sh",
+		"/media/vault/docs/softdev/python/projects/pyclock/test.py",
+		"/home/khaz/.cache/.fr-I9AvtX/android-studio/Install-Linux-tar.txt",
+		"/home/khaz/docs-softdev-python/pyqt/misc/PyQt5_gpl-5.7.1/examples/desktop/systray/systray_rc.py",
+		"/media/vault/docs/softdev/python/tutorial/RealPythonTutorials/django/test0/templates/base.html",
+		"/home/khaz/Pulpit/polecenia",
+		"/media/vault/docs/osobiste/kicia/imię",
+		"/media/vault/docs/softdev/python/tutorial/RealPythonTutorials/django/requirements.txt",
+		"/home/khaz/docs-softdev-python/tutorial/RealPythonTutorials/csvNewBasics.csv",
+		"/home/khaz/.config/sublime-text/Packages/User/sheb.sublime-snippet",
+		"/media/vault/docs/softdev/python/misc/configparserHowTo.py",
+		"/media/vault/docs/softdev/python/misc/competitive.py",
+		"/media/vault/docs/softdev/python/misc/consoleTime.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/systemTray/demerio_conductor/demerio_conductor.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/systemTray/resources/__init__.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/system_tray.py",
+		"/home/khaz/.config/sublime-text/Packages/User/pltnp.sublime-snippet",
+		"/home/khaz/.config/sublime-text/Packages/User/tmplkhu.sublime-snippet",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/polarcoords.py",
+		"/media/vault/docs/softdev/python/mat/khAnim.py",
+		"/media/vault/docs/softdev/python/mat/simple_anim.py",
+		"/media/vault/docs/softdev/python/projects/pyclock/khlock.sh",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/new/solarSystem.py",
+		"/home/khaz/.config/sublime-text/Packages/Outline/outline.sublime-settings",
+		"/home/khaz/.config/sublime-text/Packages/User/outline.sublime-settings",
+		"/media/vault/docs/softdev/python/pandas/chartVisualization.py",
+		"/media/vault/docs/softdev/python/pandas/mplRevision.py",
+		"/media/vault/docs/softdev/python/pandas/w3cschools/DataFrameDelight.py",
+		"/media/vault/docs/softdev/python/pandas/basicHelio.py",
+		"/media/vault/docs/softdev/python/pandas/w3cschools/data.csv",
+		"/media/vault/docs/softdev/python/pyqt/projs/rested/ReSTed.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/rested/PreferencesDialog.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/rested/SearchReplaceDlg.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/MultipleWindowsQt.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/PyQt5menu.py",
+		"/media/vault/docs/softdev/python/pyqt/dialogs.py",
+		"/media/vault/docs/softdev/python/pyqt/pyqt5_00.py",
+		"/media/vault/docs/softdev/python/pyqt/scroll01.py",
+		"/media/vault/docs/softdev/python/pyqt/borderless.py",
+		"/media/vault/docs/softdev/python/pyqt/frameless01.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/khelio.py",
+		"/media/vault/docs/softdev/python/lib/misc.py",
+		"/media/vault/dr/dyplom/drThesis/python/khmath.py",
+		"/media/vault/docs/softdev/python/lib/science/heattr.py",
+		"/media/vault/docs/softdev/python/pyqt/matplotlibPyQt.py",
+		"/media/vault/docs/softdev/python/pyqt/zetcode/ex10Table.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/MDI_designer.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/MDI_designer_launch.py",
+		"/media/vault/docs/softdev/python/pyqt/designer/main_Test.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/layout/review.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/MultipleDocQt.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/MDIPyQt.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/statusbar.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/textbox.py",
+		"/media/vault/docs/softdev/python/pyqt/scrollTable.py",
+		"/media/vault/docs/softdev/python/pyqt/scrollTableDesigner.py",
+		"/media/vault/docs/softdev/python/pyqt/pyqtTable.py",
+		"/media/vault/docs/softdev/python/pyqt/FirstQtWidget.py",
+		"/media/vault/docs/softdev/python/sublimeText00.py",
+		"/media/vault/docs/softdev/python/pyqt/button.py",
+		"/media/vault/docs/softdev/python/pyqt/authors.txt",
+		"/media/vault/docs/softdev/python/pyqt/lineedit.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/SID_MDI_PyQt.py",
+		"/media/vault/docs/softdev/python/misc/deploy/SID_PyQt/__main__.py",
+		"/media/vault/docs/softdev/python/pyqt/PyQtPaint.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/PyQtDrawing.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/pyqt5DrawingApi.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/pyqtClickable.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/signals_slots.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/clickAndDoubleclick.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/qtWidgetClickable.py",
+		"/media/vault/docs/softdev/python/pyqt/misc/qtabwidgetExample.py",
+		"/media/vault/docs/softdev/python/pyqt/projs/MicroPyQtCAD/MicroPyQtCAD.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/Radiobutton.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/MenuItemIcons(x2).py",
+		"/media/vault/docs/softdev/python/pyqt/examples/MenuBasicExample.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/widgetsPyQt5.py",
+		"/media/vault/docs/softdev/python/gtk/MyGTKHAD/MyGTKHAD.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/RadioButtonPyQt5Ex.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/exclusiveQCheckbox.py",
+		"/media/vault/docs/softdev/projekty/helio/glade/SPD_launcher.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/WindowShading01.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/khgeom.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/cartesiancoords.py",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/cartesianinc.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/comboboxQt.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/tableRolesModelView.py",
+		"/media/vault/docs/softdev/python/gtk/misc/microCAD.py",
+		"/media/vault/docs/softdev/python/pyqt/templates/MDI_PyQt.py",
+		"/home/khaz/.config/sublime-text-3/Packages/User/py3shebang.sublime-snippet",
+		"/home/khaz/drThesis/python/khutils.py",
+		"/home/khaz/.config/sublime-text-3/Packages/User/CodeMap/Code - Map",
+		"/home/khaz/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/khaz/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/media/vault/docs/softdev/python/pyqt/templates/AppTemplate.py",
+		"/media/vault/docs/softdev/python/pyqt/table.ui",
+		"/media/vault/dr/dyplom/drThesis/python/helio/solPositionChart/Point3D.py",
+		"/home/khaz/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/home/khaz/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+		"/home/khaz/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/khaz/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/khaz/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/media/vault/docs/softdev/python/gtk/gtkLauncher.py",
+		"/media/vault/docs/softdev/python/pyqt/pyqtExTableSorting.py",
+		"/media/vault/docs/softdev/python/pyqt/zetcode/ex13MDITable.py",
+		"/media/vault/docs/softdev/python/pyqt/zetcode/ex10HTable.py",
+		"/media/vault/docs/softdev/python/pyqt/basic_window.py",
+		"/media/vault/docs/softdev/python/pyqt/examples/spritelib.py",
+		"/home/khaz/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/khaz/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"mut",
+			"book_reviews",
+			"HashMap",
+			"mtDays",
+			"def mtDays",
+			"mtDays",
+			"dayNr",
+			"mtDays",
+			"ls0_test",
+			"def ls",
+			"ls0",
+			"ls0_test",
+			"def ls",
+			"ls",
+			"column",
+			"random",
+			"fontsize",
+			"hrLab",
+			"analemad",
+			"✸",
+			"fontSize",
+			"'",
+			"\\'",
+			"'",
+			"title",
+			"set_title",
+			"khlock",
+			"iterable",
+			"static",
+			"wthLab",
+			"flag",
+			"first",
+			"hprev",
+			"flag",
+			"first",
+			"hrlab",
+			"<",
+			"read",
+			"os.getcwd() =",
+			"khelio runner script.",
+			"interval",
+			"refresh time",
+			"wthLab",
+			"keyFile",
+			"hrLab",
+			"numpy",
+			"= ",
+			"printd",
+			"ble",
+			"dint",
+			"printd",
+			"print",
+			"#!/",
+			"frame",
+			"G",
+			"hrLab",
+			"quarter",
+			"urllib",
+			"p",
+			"varinfo",
+			"ax.plot",
+			"mins",
+			"hand18",
+			"ax00",
+			"aspect",
+			"xes",
+			"ax00.plot(xes, yes, '-', c='black', linewidth=2.0)  # rim",
+			"xes",
+			"logging.",
+			")\n",
+			"SearchReplaceDlg.FLAGS",
+			"print",
+			"\"D",
+			"print",
+			"hDec2hmStr",
+			"hrdec",
+			"HRS",
+			"AZISX0",
+			"dnrsX0",
+			"dbg",
+			"timeit",
+			"simple",
+			"enum",
+			"faren",
+			"celc",
+			"enum",
+			"update",
+			"print",
+			"pyqtSignal",
+			"layout1",
+			"posLabel",
+			"brushSize",
+			"image",
+			"painter",
+			"set",
+			"widget",
+			"time",
+			"self.plotSPDAct",
+			"checkable",
+			"borderPanelL",
+			"borderPanelQW",
+			"plotspd",
+			"separator",
+			"time",
+			"check",
+			"checkbox",
+			"check",
+			"sp.asarray",
+			"sp.array",
+			"sp.zeros",
+			"sp.arange",
+			"sp.linspace",
+			"fig",
+			"printinfo(",
+			"printinfo(self",
+			"printinf(self",
+			"\"self",
+			"self =",
+			"\"self =",
+			"Solar Position",
+			"plotsidact",
+			"self.plot",
+			"plot",
+			"self.plotAct",
+			"self.plotact",
+			"scatter",
+			"dot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lineWeight",
+			"\"",
+			"hhand",
+			"logger1.",
+			"gridLayoutself.painter",
+			"self.painter",
+			"polarCoordsLt",
+			"polarCoordsFrame",
+			"np.asarray",
+			"np.array",
+			"np.zeros",
+			"np.arange",
+			"np.linspace",
+			"Sun Path",
+			"self.plotSID",
+			"self.plotSIDAct",
+			"details",
+			"windowInputAct",
+			"windowDiagramAct",
+			"windowInputAct",
+			"self.windowInputAct",
+			"self.windowDiagramAct",
+			"SPD_dataView",
+			"self.winInput",
+			"self.winSID",
+			"text",
+			"self.plotAct",
+			"SIF2Num",
+			"self.rowFrame",
+			"np.sqrt",
+			"np.sort",
+			"np.where",
+			"np.zeros",
+			"np.array",
+			"initDataWindow",
+			"▣"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "khelio.rst",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "============",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 162.0
+	},
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 252.0
+	},
+	"output.git-init":
+	{
+		"height": 252.0
+	},
+	"output.git-push":
+	{
+		"height": 252.0
+	},
+	"output.latextools":
+	{
+		"height": 163.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pythonConda.sublime-build",
+	"project": "newkhelio.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anim",
+				"/media/vault/docs/softdev/python/mat/simple_anim.py"
+			],
+			[
+				"kh",
+				"/media/vault/dr/dyplom/drThesis/python/khutils.py"
+			],
+			[
+				"misc",
+				"/media/vault/docs/softdev/python/lib/misc.py"
+			],
+			[
+				"khu",
+				"/media/vault/dr/dyplom/drThesis/python/khutils.py"
+			],
+			[
+				"append",
+				"/media/vault/docs/softdev/python/utils/printSeparatedBoth.py"
+			],
+			[
+				"",
+				"/media/vault/dr/dyplom/drThesis/python/khutils.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/vault/docs/softdev/python/projects/logging00.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 298.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 578.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
